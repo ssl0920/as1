@@ -37,7 +37,9 @@ import java.util.ArrayList;
  */
 
 //used to resolve error mesages with "R.": http://stackoverflow.com/questions/17421104/android-studio-marks-r-in-red-with-error-message-cannot-resolve-symbol-r-but
-public class FuelLogActivity extends ca.sangsooualberta.sangsoo_fueltrack.View {
+public class FuelLogActivity extends Activity {
+
+    private LogList loglist = new LogList();
 
     private ListView oldLogList;
     private ArrayAdapter<String> adapter;

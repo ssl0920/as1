@@ -44,7 +44,9 @@ import java.util.Locale;
  *
  */
 
-public class FuelTrackActivity extends ca.sangsooualberta.sangsoo_fueltrack.View {
+public class FuelTrackActivity extends Activity {
+
+    private LogList loglist = new LogList();
 
     private EditText date;
     private EditText station;
