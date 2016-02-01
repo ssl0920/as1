@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">sangsoo-FuelTrack</string>
+
+    <string name="view_log">View Log</string>
+    <string name="log_entry">Log Entry</string>
+
+    <string name="edit_date">e.g., 2016-01-18   </string>
+    <string name="edit_station">e.g., Costco</string>
+    <string name="edit_odometer">e.g., 200123.5</string>
+    <string name="edit_grade">e.g., regular</string>
+    <string name="edit_amount">e.g., 40.234 </string>
+    <string name="edit_unit">e.g., 79.4 </string>
+
+    <string name="button_save">Save Entry</string>
+    <string name="button_log">View Log</string>
+    <string name="button_add">Add Entry</string>
+    <string name="button_clear">Clear Log</string>
+
+</resources>
